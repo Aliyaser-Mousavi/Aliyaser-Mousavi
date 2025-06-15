@@ -3,7 +3,7 @@
 <div style=" font-size: medium; color: #447ff7" align=center>  
                                  
   ![header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
- ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Rajat%20Joshi&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5) 
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Aliyaser%20Mousavi&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5) 
       
   <!-- 
  
@@ -63,8 +63,8 @@
 ## Coding Profiles📈
 
 <span>
-<a href="https://codeforces.com/profile/Aliyaser-Mousavi">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Aliyaser-Mousavi&theme=github_dark&force_username=true&border_color=404040" alt="Sayeed Mahdi Codeforces Stats"/>
+<a href="https://codeforces.com/profile/Rajat.18">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Rajat.18&theme=github_dark&force_username=true&border_color=404040" alt="Rajat Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/log1/">
 <img height="316" src="https://leetcard.jacoblin.cool/log1?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Rajat Leetcode Stats"/>
@@ -408,3 +408,10 @@ cin.tie(NULL);
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
   </a>
 </p>
+
+<p align="center">
+  <img src="https://guilyx.vercel.app/api/top-played">
+</p>
+
+-->
+
