@@ -29,15 +29,16 @@
  
 <span align="left">
          
-- 🌱 I’m currently doing **Chart** 
+- 🌱 I’m currently learning **Full Stack Web Development**.
+  
+- 🙌 GitHub: **Aliyaser Mousavi**.
+  
+- 🤝 I’m open to collaborate on real-world projects and team work.
+  
+- 📫 Reach me at: **aliyasermousavi@gmail.com**.
+  
+- ⚡ Fun fact: I believe in building, breaking, and rebuilding to learn.
 
-- 🙌 Github **Rajat Joshi**
-
-- 🤝 I’m looking for help with **collaborate on Projects.**
-
-- 📫 How to reach me **Rajatjoshi7535@gmail.com**
-
-- ⚡ Fun fact 🙌 **Those who cannot remember the past are condemned to repeat it.**
   
 </span>
 
@@ -102,10 +103,10 @@
 
 <p align="center">
 
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=18-RAJAT&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aliyaser-Mousavi&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"> 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18-RAJAT&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aliyaser-Mousavi&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
 
 </p>
   
@@ -113,11 +114,12 @@
 
 
 <p align="center">
-<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="370"   alt="@Voko's github-readme-stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=18-RAJAT&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="370"  alt="@Voko's github-readme-streak-stats"/></a>
+<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aliyaser-Mousavi&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="370"   alt="@Voko's github-readme-stats"/></a>
+<a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?username=Aliyaser-Mousavi&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="370"  alt="@Voko's github-readme-streak-stats"/></a>
 </p>
 
-![Rajat's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=18-RAJAT&theme=gotham&layout=compact&langs_count=8&hide_border=true)
+![Aliyaser's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aliyaser-Mousavi&theme=gotham&layout=compact&langs_count=8&hide_border=true)
+
 
 
 
