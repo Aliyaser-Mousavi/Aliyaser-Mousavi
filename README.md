@@ -11,11 +11,13 @@
 
 <span>
 <a href="https://github.com/Aliyaser-Mousavi"">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyaser-Mousavi&layout=pie&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages Pie" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyaser-Mousavi&layout=pie&theme=tokyonight&hide_border=true" width="41%" alt="Top Languages Pie" />
 </a>
-<a href="https://leetcode.com/log1/">
-<img height="316" src="https://leetcard.jacoblin.cool/log1?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Rajat Leetcode Stats"/>
+<a href="https://github.com/Aliyaser-Mousavi">
+  <img width="48%" src="https://raw.githubusercontent.com/Aliyaser-Mousavi/My-photo/main/photo_2025-01-21_10-16-02.jpg" alt="Aliyaser's Photo"/>
 </a>
+
+</span>
 
  <a href="#">
  <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="316" />
