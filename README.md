@@ -10,8 +10,8 @@
 ## Coding Profiles📈
 
 <span>
-<a href="https://codeforces.com/profile/Rajat.18">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Rajat.18&theme=github_dark&force_username=true&border_color=404040" alt="Rajat Codeforces Stats"/>
+<a href="https://github.com/Aliyaser-Mousavi"">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyaser-Mousavi&layout=pie&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages Pie" />
 </a>
 <a href="https://leetcode.com/log1/">
 <img height="316" src="https://leetcard.jacoblin.cool/log1?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Rajat Leetcode Stats"/>
