@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyaser-Mousavi&layout=pie&theme=tokyonight&hide_border=true" width="41%" alt="Top Languages Pie" />
 </a>
 <a href="https://github.com/Aliyaser-Mousavi">
-  <img width="48%" src="https://raw.githubusercontent.com/Aliyaser-Mousavi/My-photo/main/photo_2025-01-21_10-16-02.jpg" alt="Aliyaser's Photo"/>
+  <img width="48%" height="520" src="https://raw.githubusercontent.com/Aliyaser-Mousavi/My-photo/main/photo_2025-01-21_10-16-02.jpg" alt="Aliyaser's Photo"/>
 </a>
 
 </span>
