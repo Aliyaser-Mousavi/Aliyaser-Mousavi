@@ -116,7 +116,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aliyaser-Mousavi&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="370"   alt="@Voko's github-readme-stats"/></a>
+<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aliyaser-Mousavi&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="370"   alt="@Aliyaser-Mousavi's github-readme-stats"/></a>
 <a href="https://github.com/Aliyaser-Mousavi?tab=stars">
   <img src="https://streak-stats.demolab.com?user=Aliyaser-Mousavi&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="370" alt="@Aliyaser's github-readme-streak-stats"/>
 </a>
@@ -125,7 +125,7 @@
 
 </p>
 
-![Aliyaser's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aliyaser-Mousavi&theme=gotham&layout=compact&langs_count=8&hide_border=true)
+![Aliyaser's Language stats](https://github.com/Aliyaser-Mousavi?tab=repositories/api/top-langs/?username=Aliyaser-Mousavi&theme=gotham&layout=compact&langs_count=8&hide_border=true)
 
 
 
