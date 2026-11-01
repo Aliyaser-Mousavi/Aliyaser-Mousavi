@@ -1,138 +1,113 @@
-<p align="center"><img src="animation.gif" width="35%"></p> 
-         
-<div style=" font-size: medium; color: #447ff7" align=center>  
-                                 
-  
- ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Aliyaser%20Mousavi&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5) 
-      
+<div align="center">
 
+![Aliyaser Mousavi — Frontend Developer](https://capsule-render.vercel.app/api?type=waving&color=111315&height=230&section=header&text=Aliyaser%20Mousavi&fontSize=56&fontColor=F2F0ED&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20Native&descAlignY=58&descSize=18&descAlign=50&stroke=3D5A45&strokeWidth=1)
 
-## Coding Profiles📈
+**Building clean, responsive interfaces for the web and, increasingly, for mobile.**
 
-<span>
-<a href="https://github.com/Aliyaser-Mousavi"">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyaser-Mousavi&layout=pie&theme=tokyonight&hide_border=true" width="41%" alt="Top Languages Pie" />
-</a>
-<a href="https://github.com/Aliyaser-Mousavi">
-  <img width="48%" height="420" src="https://raw.githubusercontent.com/Aliyaser-Mousavi/My-photo/main/photo_2025-01-21_10-16-02.jpg" alt="Aliyaser's Photo"/>
-</a>
+</div>
 
-</span>
+---
 
- <a href="#">
- <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="316" />
- </a>
+## About
 
+I build responsive, user-focused interfaces with **React** and **Next.js**, and I'm expanding into mobile with **React Native** and **Expo**. I turn Figma designs into working UI, paying close attention to component structure, layout consistency, and how an interface behaves across screen sizes.
 
- <a href="#"><img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" height="316" alt="GIF"/></a> 
+I learn by building real projects and refining them. Most of what I know came from shipping something, finding where it breaks, and fixing it properly.
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100">
+---
 
- 
-<span align="left">
-         
-- 🌱 I’m currently learning **Full Stack Web Development**.
-  
-- 🙌 GitHub: **Aliyaser Mousavi**.
-  
-- 🤝 I’m open to collaborate on real-world projects and team work.
-  
-- 📫 Reach me at: **aliyasermousavi@gmail.com**.
-  
-- ⚡ Fun fact: I believe in building, breaking, and rebuilding to learn.
+## Tech Stack
 
-  
-</span>
+<div align="center">
 
+**Frontend**
 
+<img src="https://img.shields.io/badge/HTML5-1B2020?style=flat-square&logo=html5&logoColor=D18B52" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1B2020?style=flat-square&logo=css3&logoColor=D18B52" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-1B2020?style=flat-square&logo=javascript&logoColor=D18B52" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-1B2020?style=flat-square&logo=typescript&logoColor=D18B52" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-1B2020?style=flat-square&logo=react&logoColor=D18B52" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-1B2020?style=flat-square&logo=nextdotjs&logoColor=D18B52" alt="Next.js" />
+<img src="https://img.shields.io/badge/Sass-1B2020?style=flat-square&logo=sass&logoColor=D18B52" alt="Sass" />
 
+**Mobile**
 
+<img src="https://img.shields.io/badge/React_Native-1B2020?style=flat-square&logo=react&logoColor=D18B52" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-1B2020?style=flat-square&logo=expo&logoColor=D18B52" alt="Expo" />
 
- 
+**Styling & Design**
 
+<img src="https://img.shields.io/badge/Tailwind_CSS-1B2020?style=flat-square&logo=tailwindcss&logoColor=D18B52" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Figma-1B2020?style=flat-square&logo=figma&logoColor=D18B52" alt="Figma" />
 
+**Backend & Tooling**
 
-## 👩‍💻 IDE
+<img src="https://img.shields.io/badge/Supabase-1B2020?style=flat-square&logo=supabase&logoColor=D18B52" alt="Supabase" />
+<img src="https://img.shields.io/badge/Git-1B2020?style=flat-square&logo=git&logoColor=D18B52" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-1B2020?style=flat-square&logo=github&logoColor=D18B52" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-1B2020?style=flat-square&logo=visualstudiocode&logoColor=D18B52" alt="Visual Studio Code" />
+<img src="https://img.shields.io/badge/npm-1B2020?style=flat-square&logo=npm&logoColor=D18B52" alt="npm" />
 
+</div>
 
-![Top Graph](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Top Graph](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
- ![Top Graph](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) 
+---
 
+## Featured Projects
 
-## LANGUAGES
+**[MarsWorldCuisineApp](https://github.com/Aliyaser-Mousavi/MarsWorldCuisineApp)**
+A mobile app built with React Native and Expo. It uses Redux Toolkit for state management, Supabase for backend services, and React Navigation with drawer, bottom-tab, and native-stack navigators.
+`React Native` · `Expo` · `Redux Toolkit` · `Supabase` · `React Navigation`
 
+**[TheExpenseTrackerApp](https://github.com/Aliyaser-Mousavi/TheExpenseTrackerApp)**
+A React Native expense tracker built with Expo. It uses React Navigation with stack and bottom-tab navigators and Axios for HTTP requests.
+`React Native` · `Expo` · `React Navigation` · `Axios`
 
-![Top Graph](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Top Graph](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Top Graph](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Top Graph](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+**[react-job-app](https://github.com/Aliyaser-Mousavi/react-job-app)**
+A React application built with Vite, using React Router for client-side routing and Tailwind CSS for styling.
+`React 19` · `Vite` · `React Router` · `Tailwind CSS`
 
-  ## 💻 OS
+**[weather-app](https://github.com/Aliyaser-Mousavi/weather-app)**
+A weather app built from a [Frontend Mentor](https://www.frontendmentor.io) challenge. It fetches data from the Open-Meteo API and is styled to match the provided design.
+`HTML` · `CSS` · `JavaScript` · `Tailwind CSS` · `Open-Meteo API`
 
- ![Top Graph](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+---
 
- 
+## GitHub Stats
 
-## SOCIAL
+<div align="center">
 
-![Top Graph](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Top Graph](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Top Graph](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![Top Graph](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=Aliyaser-Mousavi&show_icons=true&hide_border=true&theme=transparent&title_color=D18B52&icon_color=3D5A45&text_color=A6AAA5" alt="GitHub statistics for Aliyaser Mousavi" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyaser-Mousavi&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=D18B52&text_color=A6AAA5" alt="Most used languages by Aliyaser Mousavi" height="170" />
 
+<img src="https://streak-stats.demolab.com?user=Aliyaser-Mousavi&hide_border=true&background=111315&border=1B2020&ring=3D5A45&fire=D18B52&currStreakLabel=D18B52&sideLabels=A6AAA5&dates=A6AAA5&currStreakNum=F2F0ED&sideNums=F2F0ED" alt="Contribution streak for Aliyaser Mousavi" />
 
-## 💻 Terminal
+</div>
 
- ![Top Graph](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![Top Graph](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-   ![Top Graph](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+---
 
+## Currently Working On
 
+- Strengthening my React and Next.js skills, with a focus on component architecture and state management
+- Building mobile applications with React Native and Expo
+- Writing cleaner, more maintainable TypeScript
+- Building practical, user-focused applications that solve real problems
 
-## 👨‍💻 Workspace
+---
 
-![Top Graph](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+## Connect
 
+<div align="center">
 
+<a href="https://github.com/Aliyaser-Mousavi"><img src="https://img.shields.io/badge/GitHub-1B2020?style=for-the-badge&logo=github&logoColor=F2F0ED" alt="GitHub" /></a>
+<a href="https://aliyaser-mousavi-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-3D5A45?style=for-the-badge&logo=googlechrome&logoColor=F2F0ED" alt="Portfolio website" /></a>
+<a href="mailto:aliyasermousavi@gmail.com"><img src="https://img.shields.io/badge/Email-D18B52?style=for-the-badge&logo=gmail&logoColor=111315" alt="Email" /></a>
 
+</div>
 
+---
 
+<div align="center">
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=111315&height=90&section=footer)
 
- 
-
-
-<p align="center">
-
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aliyaser-Mousavi&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"> 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aliyaser-Mousavi&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
-
-</p>
-  
-  
-
-
-<p align="center">
-<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aliyaser-Mousavi&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="370"   alt="@Aliyaser-Mousavi's github-readme-stats"/></a>
-<a href="https://github.com/Aliyaser-Mousavi?tab=stars">
-  <img src="https://streak-stats.demolab.com?user=Aliyaser-Mousavi&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="370" alt="@Aliyaser's github-readme-streak-stats"/>
-</a>
-
-</a>
-
-</p>
-
-![Aliyaser's Language stats](https://github.com/Aliyaser-Mousavi?tab=repositories/api/top-langs/?username=Aliyaser-Mousavi&theme=gotham&layout=compact&langs_count=8&hide_border=true)
-
-
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer)
-
-
-
-
-
+</div>
