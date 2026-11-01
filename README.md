@@ -76,8 +76,8 @@ A weather app built from a [Frontend Mentor](https://www.frontendmentor.io) chal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aliyaser-Mousavi&show_icons=true&hide_border=true&theme=transparent&title_color=D18B52&icon_color=3D5A45&text_color=A6AAA5" alt="GitHub statistics for Aliyaser Mousavi" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyaser-Mousavi&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=D18B52&text_color=A6AAA5" alt="Most used languages by Aliyaser Mousavi" height="170" />
+<img src="github-stats.svg" alt="GitHub statistics for Aliyaser Mousavi" height="170" />
+<img src="top-languages.svg" alt="Most used languages by Aliyaser Mousavi" height="170" />
 
 <img src="https://streak-stats.demolab.com?user=Aliyaser-Mousavi&hide_border=true&background=111315&border=1B2020&ring=3D5A45&fire=D18B52&currStreakLabel=D18B52&sideLabels=A6AAA5&dates=A6AAA5&currStreakNum=F2F0ED&sideNums=F2F0ED" alt="Contribution streak for Aliyaser Mousavi" />
 
